@@ -1,6 +1,6 @@
 #  5-Minute Quiz
 
-An interactive quiz project built using HTML, CSS, and JavaScript.
+A responsive and interactive 5-Minute Quiz Web Application built using HTML, CSS, and JavaScript. The project allows users to attempt a quick quiz within a limited time, providing instant feedback and a final score at the end. It is designed with a simple and user-friendly interface to enhance user engagement and experience.
 
 ## Features
 
