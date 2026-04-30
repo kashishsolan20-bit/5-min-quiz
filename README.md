@@ -15,3 +15,6 @@ A responsive and interactive 5-Minute Quiz Web Application built using HTML, CSS
 * HTML
 * CSS
 * JavaScript
+
+## Preview
+<img src="docs/Quiz.png" alt="Quiz App UI" width="500"/>
